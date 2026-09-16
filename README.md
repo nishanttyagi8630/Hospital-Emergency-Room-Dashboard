@@ -4,7 +4,7 @@ An interactive **Hospital Emergency Room Dashboard** built using Microsoft Excel
 
 ## 📊 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](Dashboard/Hospital%20Emergency%20Room%20Dashboard.png)
+![Hospital Emergency Room Dashboard](Dashboard/Hospital-Emergency-Room-Dashboard.png)
 
 ## 🔍 Key Analysis
 
